@@ -9,10 +9,10 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 
-1. Pick customer segment quantity (k).
-2.Seed cluster centers with random data points.
-3.Assign customers to closest centers.
-4.Re-center clusters and repeat until stable.
+1. Pick customer segment quantity (k)
+2. Seed cluster centers with random data points.
+3. Assign customers to closest centers.
+4. Re-center clusters and repeat until stable.
 
 ## Program:
 ```
